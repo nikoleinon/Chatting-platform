@@ -1,0 +1,7 @@
+.App {
+    min-height: 100vh;
+    background:  
+      url('/public/images/fireworks.jpg') 
+      center center fixed;
+    background-size: cover; 
+  }

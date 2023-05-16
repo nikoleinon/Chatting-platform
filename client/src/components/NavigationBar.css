@@ -1,0 +1,15 @@
+.nav-link {
+  font-weight: 600 !important;
+  color: black !important;
+}
+
+.nav-link:hover {
+  color: #f5a623 !important;
+}
+
+.active-link {
+  border-bottom: 3px solid #f5a623 !important;
+}
+.navbar .nav-item .dropdown-menu a:last-child {
+  background-color: red;
+}

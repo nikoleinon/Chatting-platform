@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\training\fight-boredom-app\server\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2461411560.index
+4039283367.index

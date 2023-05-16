@@ -1,0 +1,33 @@
+
+.chat ::-webkit-scrollbar {
+  display: none;
+}
+
+/*.chat-wrapper {
+    border: 1px solid grey;
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: whitesmoke;
+  }
+  
+  .chat-name {
+    color: blue;
+  }
+  
+  .chat-box {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+    background-color: white;
+    width: fit-content;
+  }
+  
+  .chat-container {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 100%;
+    justify-content: flex-end;
+    align-items: center;
+  }*/
+  
+  
